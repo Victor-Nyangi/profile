@@ -4,13 +4,15 @@
 
 - 🔭 I’m currently working on [the Street University e-learning platform](https://thestreetuniversity.com)
 
-- 🌱 I’m currently learning **Docker, Django and Inertia JS**
+- 🌱 I’m currently learning **Blockchain, Rust, Go, AWS**
 
-- 👨‍💻 All of my projects are available at [https://victor-nyangi-personal-portfolio.vercel.app/](https://victor-nyangi-personal-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://victor-nyangi-personal-portfolio.vercel.app//](https://victor-nyangi-personal-portfolio.vercel.app//)
 
 - 📝 I regularly write articles on [https://soundsnare.vercel.app/](https://soundsnare.vercel.app/)
 
-- 💬 Ask me about **react, vue, python, laravel and Node Js**
+- 📝 I have a personal cheatsheet on [https://note-space-gold.vercel.app/](https://note-space-gold.vercel.app/)
+
+- 💬 Ask me about **React, Vue, Python, Laravel, AWS, Typescript, Javascript, SQL and Node Js**
 
 - 📫 How to reach me **gichuivictor@gmail.com**
 
