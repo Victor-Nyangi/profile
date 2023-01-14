@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Victor Gichui</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
 
-- 🔭 I’m currently working on [the Street University e-learning platform](https://thestreetuniversity.com)
+- 🔭 I’m currently working on [MjengoTech Limited](https://dev.app.mjengotech.com/)
 
 - 🌱 I’m currently learning **Blockchain, Rust, Go, AWS**
 
